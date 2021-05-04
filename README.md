@@ -4,7 +4,7 @@ Welcome! This is the amazon-clone, written in React JS.
 
 Feel free to put false informations (if you want), but it is not neccessary to write anything.
 
-The link: http://unhealthy-army.surge.sh/
+The website: http://unhealthy-army.surge.sh/
 
 If you want to verify the code, before downloading this, I recommend to create a directory(a folder which name does not have upper case) where you will put the code to run these commands in the terminal:
 
